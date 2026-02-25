@@ -423,6 +423,10 @@ li a:hover {
     ul.active {
         display: flex;
     }
+    
+    #mobile-menu.active {
+        display: flex !important;
+    }
 
     ul li {
         text-align: center;
